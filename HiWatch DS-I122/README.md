@@ -77,7 +77,7 @@ http://ip-from-dhcp/
 
 set password
 
-***Enable IR. On ssh
+***Enable IR. ssh
 ```
 cli -s .nightMode.enabled true
 cli -s .nightMode.irCutPin1 6
@@ -90,7 +90,9 @@ curl -o /etc/init.d/S99rc.local https://raw.githubusercontent.com/OpenIPC/sandbo
 chmod +x /etc/init.d/S99rc.local
 ```
 
-Enable onvif, set onvif password
+Enable onvif, set onvif password.
+
+Set timezone
 
 rtsp://root:password@10.168.110.50:554/stream=0
 
