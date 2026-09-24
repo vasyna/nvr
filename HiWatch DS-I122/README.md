@@ -1,5 +1,7 @@
 # Install OpenIPC on HiWatch DS-I122 (with firmware Rostelecom (Ростелеком))
 
+![image](https://github.com/vasyna/nvr/blob/main/HiWatch%20DS-I122/pinout.jpg)
+
 HyperTerminal
 
 For break boot press Ctrl+U
