@@ -64,7 +64,9 @@ reset
 ```
 
 http://ip-from-dhcp:85/
+
 username: root
+
 pasword: 12345
 
 ***upgrade (wait reboot)
@@ -72,6 +74,7 @@ pasword: 12345
 ***do reset to default
 
 http://ip-from-dhcp/
+
 set password
 
 ***Enable IR. On ssh
@@ -92,6 +95,9 @@ Enable onvif, set onvif password
 rtsp://root:password@10.168.110.50:554/stream=0
 
 SRC:
+
 https://mixatronik.ru/videonablyudenie/openipc/zapusk-openipc-na-kamere-hiwatch-ds-i122
+
 https://openipc.org/ru/get-started
+
 https://github.com/OpenIPC/sandbox/tree/main/scripts/backlight-control
