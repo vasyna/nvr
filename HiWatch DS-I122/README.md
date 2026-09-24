@@ -2,6 +2,8 @@
 
 ![image](https://github.com/vasyna/nvr/blob/main/HiWatch%20DS-I122/pinout.jpg)
 
+For Uart need JST ZH 1.5 4 pin cable
+
 HyperTerminal
 
 For break boot press Ctrl+U
